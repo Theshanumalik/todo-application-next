@@ -14,8 +14,8 @@ To run this application, you will need to have the following installed:
 Once you have all of the required dependencies installed, you can clone this repository and install the dependencies:
 
 ````bash
-git clone https://github.com/bard/basic-todo-app.git
-cd basic-todo-app
+git clone https://github.com/Theshanumalik/todo-application-next.git
+cd todo-application-next
 npm install
 ````
 
