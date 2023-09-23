@@ -17,7 +17,7 @@ Once you have all of the required dependencies installed, you can clone this rep
 git clone https://github.com/bard/basic-todo-app.git
 cd basic-todo-app
 npm install
-
+````
 
 ## Running the Development Server
 To start the development server, run the following command:
